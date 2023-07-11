@@ -11,4 +11,7 @@
 - 💬 You can reach me by e-mail kmatysiak-it@outlook.com </li> 
 
 <br>
-<img src="/technologies.png" width="80%"/>
+<div align="center">
+  <img src="/technologies.png" width="80%"/>
+
+</div>
