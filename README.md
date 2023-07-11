@@ -1,4 +1,4 @@
-[![linkedin badge](https://img.shields.io/badge/g4n3sha5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kamilmatysiak)
+
 <div align="center">
   <h1>Hi, I'm Kamil 👋</h1>
   <h3>
@@ -11,6 +11,4 @@
 - 💬 You can reach me by e-mail kmatysiak-it@outlook.com </li> 
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://icons8.com/icon/84710/bootstrap"/> </p>
+![image](https://github.com/g4n3sha5/g4n3sha5/assets/116462435/ac8ddcb4-4bcb-44b4-b764-0a0f88a2ec69)
