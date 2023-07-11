@@ -11,4 +11,4 @@
 - 💬 You can reach me by e-mail kmatysiak-it@outlook.com </li> 
 
 <br>
-![image](https://github.com/g4n3sha5/g4n3sha5/assets/116462435/ac8ddcb4-4bcb-44b4-b764-0a0f88a2ec69)
+![image](https://github.com/g4n3sha5/g4n3sha5/assets/116462435/b3cdf3fa-d501-4789-8ef1-f42ee8236b8f)
