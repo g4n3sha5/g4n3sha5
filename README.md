@@ -7,7 +7,7 @@
 </div>
 
 - ⚡ My biggest project is made with Django and HTMX / JavaScript, I've been working on it for past months - [Mativated](https://github.com/g4n3sha5/MATIVATED_dev)
-- ⚡ My latest project is [my portfolio page](https://www.kamilmatysiak.pl/). Currently working on Auratek.
+- ⚡ My latest project is [Auratek](https://github.com/g4n3sha5/Auratek)
 - 💬 You can reach me by e-mail kmatysiak-it@outlook.com or by my [LinkedIn](https://www.linkedin.com/in/kamilmatysiak/)
 
 <br>
