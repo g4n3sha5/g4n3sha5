@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi,  I'm Kamil 👋</h1>
+  <h1>Hi,     I'm Kamil 👋</h1>
   <h3>
   I'm a self-taught Web Developer with solid UI/UX and Graphic Design skills. I love exploring, both in life and IT, always learning new skills, technologies and techniques. 
   </h3>
