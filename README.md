@@ -6,8 +6,8 @@
   </h3>
 </div>
 
-- 💻 My biggest project is made with Django and JavaScript, I've been working on it for past months - [Mativated](https://github.com/g4n3sha5/MATIVATED_dev) - right now I'm recreating it with TypeScript + React + React Query with an intent to make the code quality much higher 
-- ⚡ My latest project is [Auratek](https://github.com/g4n3sha5/Auratek)
+- 💻 My biggest project is made with Django and JavaScript + HTMX - [Mativated](https://github.com/g4n3sha5/MATIVATED_dev) -  I've been working on it for months
+- ⚡Right now I'm recreating it with TypeScript + React + React Query + Node.JS + tRPC + Prisma with an intent[Mativated](https://github.com/g4n3sha5/mativated-web) to make the code quality much higher 
 - 💬 You can reach me by e-mail kmatysiak-it@outlook.com or by my [LinkedIn](https://www.linkedin.com/in/kamilmatysiak/)
 
 <br>
