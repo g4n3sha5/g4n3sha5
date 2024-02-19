@@ -7,6 +7,8 @@
 
 - 📫 Reach me by **kmatysiak-it@outlook.com**
 
+- 🌐 [My personal page](https://www.kamilmatysiak.pl/) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamilmatysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamilmatysiak" height="30" width="40" /></a>
