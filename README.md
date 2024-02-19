@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">I have a passion for programming in general, but it's front-end development that truly brings me the most satisfaction. Currently, my focus lies in mastering the combination of React, TypeScript, and Tailwind.</h3>
 
-- 🔭 I’m currently working on [Mativated refactor](https://github.com/g4n3sha5/mativated-monorepo)
+- 🔭 I’m currently working on [Mativated: Refactor](https://github.com/g4n3sha5/mativated-monorepo)
 
 - 🌱 I’m currently learning **tRPC + Express.JS**
 
