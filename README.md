@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tRPC + Express.JS**
 
-- 📫 How to reach me **kmatysiak-it@outlook.com**
+- 📫 Reach me by **kmatysiak-it@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
